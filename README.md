@@ -20,4 +20,4 @@ plotly
 US Population data spanning the duration of 2010-2019 was obtained from the [U.S. Census Bureau](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html).
 
 ## Citation
-This dashboard repository was forked from [dataprofessor/population-dashboard](https://github.com/dataprofessor/population-dashboard) and adapted to use Fimio's build and review features.
+This dashboard repository was forked from [dataprofessor/population-dashboard](https://github.com/dataprofessor/population-dashboard) and adapted to use Fimio's build and review features via shareable links to the built dashboard
