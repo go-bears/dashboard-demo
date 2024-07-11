@@ -1,5 +1,5 @@
 import subprocess
-
+import streamlit
 
 def run_streamlit_app():
     command = ["streamlit", "run", "streamlit_app.py"]
